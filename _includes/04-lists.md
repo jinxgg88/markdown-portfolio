@@ -1,4 +1,4 @@
-*guitar
-*coding
-*cyber security
-*linux
+* guitar
+* coding
+* cyber security
+* linux

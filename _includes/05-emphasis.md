@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am learning how to **code** and could use all the help offered here. I am pretty good in **kali linux** but am learning more everyday.
